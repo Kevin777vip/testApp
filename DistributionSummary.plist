@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KVVipPlayer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5E7638E1A7A632CF43F0F738E125A300050F4025</string>
+				<key>dateExpires</key>
+				<string>2018/11/14</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>DE37KTERBJ.com.kevin.vipplayer</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>DE37KTERBJ</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>DE37KTERBJ.com.kevin.vipplayer</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>KVVipPlayer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b61b5e2d-6ca7-414c-bd14-5f7254587a12</string>
+				<key>name</key>
+				<string>ADHOT_VIPPlayer</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>DE37KTERBJ</string>
+				<key>name</key>
+				<string>Feng Bang Leasing(Shanghai)Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
